@@ -1,6 +1,6 @@
 /* WAP to create UDF evenOdd and check number is even or odd.
 Name : Abhishek Jeswal
-Date :31-03-22*/
+Date :31-03-22 */
 #include<stdio.h>
 #include<conio.h>
 void evenOdd();
