@@ -1,5 +1,5 @@
 /*Write a program to create inventory and insert 3 inventory detail.
-Date : 30-03-2022
+Date : 30-03-2022 
 Name : Abhishek Jeswal*/
 #include<stdio.h>
 #include<conio.h>
